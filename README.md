@@ -1,2 +1,2 @@
 # SOH-Battery-level-indicator
-A more accurate determination for the state of health of a lead-acid battery using Hall-sensor.
+A more accurate determination of the state of health (SOH) of a lead-acid battery using Hall sensor.
