@@ -5,6 +5,6 @@ Set LM2596 output to 5V. Connect output(+) to Arduino 5V pin and output(-) to GN
 
 Connect OLED SSD1306 I2C VCC -> 5V, GND -> GND, SCL -> A5 and SDA -> A4.
 
-Connest Hall-sensor ACS758 VCC -> 5V, GND -> GND and OUT1 -> A0.
+Connect Hall-sensor ACS758 VCC -> 5V, GND -> GND and OUT1 -> A0. Set the current of the motor through Hall sensor pins IP- and IP+.
 
 ![Circuit Diagram](SOH.png)
