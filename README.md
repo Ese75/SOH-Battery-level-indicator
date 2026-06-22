@@ -1,5 +1,5 @@
-# SOH-Battery-level-indicator
-A more accurate determination of the state of health (SOH) of a lead-acid battery using Hall sensor.
+# Battery-capacity-indicator
+A more accurate determination of a lead-acid battery capacity using Hall sensor.
 
 Set LM2596 output to 5V. Connect output(+) to Arduino 5V pin and output(-) to GND.
 
